@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQd5SE0NxW8+I/mpaah5lFnV1Zf5RkIrMReNwaKTLf8rCRhPj8K0wyf55CUzX2t7OqL5IONSTcUJpwb7b0SQ6Q==",
+  "success": true,
+  "projectFilePath": "H:\\hebron\\lab5\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zaika\\.nuget\\packages\\eto.forms\\2.5.11\\eto.forms.2.5.11.nupkg.sha512",
+    "C:\\Users\\zaika\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\zaika\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\zaika\\.nuget\\packages\\scottplot\\4.1.69\\scottplot.4.1.69.nupkg.sha512",
+    "C:\\Users\\zaika\\.nuget\\packages\\scottplot.eto\\4.1.69\\scottplot.eto.4.1.69.nupkg.sha512",
+    "C:\\Users\\zaika\\.nuget\\packages\\scottplot.winforms\\4.1.69\\scottplot.winforms.4.1.69.nupkg.sha512",
+    "C:\\Users\\zaika\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\zaika\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\zaika\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
